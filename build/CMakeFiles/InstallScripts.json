@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/monk/Documents/Projects/bej_to_json/build/cmake_install.cmake",
+		"/home/monk/Documents/Projects/bej_to_json/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

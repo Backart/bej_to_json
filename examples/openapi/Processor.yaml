@@ -1,0 +1,20 @@
+components:
+  schemas:
+    Processor_Processor:
+      $ref: http://redfish.dmtf.org/schemas/v1/Processor.v1_20_1.yaml#/components/schemas/Processor_v1_20_1_Processor
+      description: The `Processor` schema describes the information about a single
+        processor that a system contains.  A processor includes both performance characteristics,
+        clock speed, architecture, core count, and so on, and compatibility, such
+        as the CPU ID instruction results.  It also describes the location, such as
+        a slot, socket, or bay, where a unit can be installed, by populating a resource
+        instance with an absent state if a unit is not present.
+      x-longDescription: This resource shall represent a single processor that a system
+        contains.  A processor includes both performance characteristics, clock speed,
+        architecture, core count, and so on, and compatibility, such as the CPU ID
+        instruction results.  It may also represent a location, such as a slot, socket,
+        or bay, where a unit may be installed, but the `State` property within the
+        `Status` property contains `Absent`.
+title: '#Processor.Processor'
+x-copyright: Copyright 2014-2025 DMTF. For the full DMTF copyright policy, see http://www.dmtf.org/about/policies/copyright
+x-language: en
+x-owningEntity: DMTF

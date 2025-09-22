@@ -1,0 +1,12 @@
+PROJECT_NAME           = "BEJ to JSON Parser"
+PROJECT_NUMBER         = 1.0
+PROJECT_BRIEF          = "Binary-encoded JSON parser in pure C"
+INPUT                  = ../include ../src
+RECURSIVE              = YES
+OUTPUT_DIRECTORY       = .
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+OPTIMIZE_OUTPUT_FOR_C  = YES
+EXTRACT_ALL            = YES
+EXTRACT_STATIC         = YES
+INPUT_ENCODING         = UTF-8

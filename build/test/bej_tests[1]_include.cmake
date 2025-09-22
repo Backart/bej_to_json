@@ -1,0 +1,5 @@
+if(EXISTS "/home/monk/Documents/Projects/bej_to_json/build/test/bej_tests[1]_tests.cmake")
+  include("/home/monk/Documents/Projects/bej_to_json/build/test/bej_tests[1]_tests.cmake")
+else()
+  add_test(bej_tests_NOT_BUILT bej_tests_NOT_BUILT)
+endif()

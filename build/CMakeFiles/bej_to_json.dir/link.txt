@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -Wall -Wextra -pedantic -Wl,--dependency-file=CMakeFiles/bej_to_json.dir/link.d CMakeFiles/bej_to_json.dir/src/main.c.o CMakeFiles/bej_to_json.dir/src/bej_parser.c.o CMakeFiles/bej_to_json.dir/src/json_writer.c.o -o bej_to_json

@@ -1,8 +1,0 @@
-/home/monk/Documents/Projects/bej_to_json/build/CMakeFiles/bej_to_json.dir
-/home/monk/Documents/Projects/bej_to_json/build/CMakeFiles/test.dir
-/home/monk/Documents/Projects/bej_to_json/build/CMakeFiles/edit_cache.dir
-/home/monk/Documents/Projects/bej_to_json/build/CMakeFiles/rebuild_cache.dir
-/home/monk/Documents/Projects/bej_to_json/build/test/CMakeFiles/bej_tests.dir
-/home/monk/Documents/Projects/bej_to_json/build/test/CMakeFiles/test.dir
-/home/monk/Documents/Projects/bej_to_json/build/test/CMakeFiles/edit_cache.dir
-/home/monk/Documents/Projects/bej_to_json/build/test/CMakeFiles/rebuild_cache.dir
